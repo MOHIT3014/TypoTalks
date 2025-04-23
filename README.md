@@ -38,6 +38,14 @@ TypoTalks is a full-stack real-time messaging app built using the MERN stack wit
 - 📱 **Responsive UI**  
   TailwindCSS + DaisyUI for beautiful and mobile-friendly design.
 
+- 🚀 **Deployment**
+  Deployed on Render with continuous integration and monitoring.
+
+- 🌐 **Live Preview**
+  Real-time updates for message previews and user interactions on "https://typotalks.onrender.com"
+
+
+
 
 
 
